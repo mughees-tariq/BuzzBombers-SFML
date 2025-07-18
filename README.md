@@ -56,4 +56,4 @@ Run the game:
 
 ## 📜 License
 
-MIT © Mughees Tariq
+This project is for educational and personal use only. All rights to third-party assets (e.g., sound effects, music, fonts) belong to their respective owners.
