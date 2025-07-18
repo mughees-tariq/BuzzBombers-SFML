@@ -33,9 +33,7 @@ BuzzBombers-SFML/
 Compile and link:
 
 ```bash
-g++ -c buzz.cpp \
-    && g++ buzz.o -o sfml-app \
-       -lsfml-graphics -lsfml-window -lsfml-audio -lsfml-system
+g++ -c buzz.cpp && g++ buzz.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-audio -lsfml-system
 ```
 
 Run the game:
@@ -44,12 +42,11 @@ Run the game:
 ./sfml-app
 ```
 
-> ⚠️ Avoid areas with flowers—they block movement.
-
 ## 🎮 Controls
 
 * **Move Left/Right:** ← / →
 * **Shoot:** Spacebar
+> ⚠️ Avoid areas with flowers—they block movement.
 
 ## 👑 Game Progression
 
