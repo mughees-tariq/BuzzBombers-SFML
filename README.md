@@ -1,6 +1,6 @@
 # BuzzBombers-SFML 🎮
 
-A faithful C++ remake of the classic *Buzz Bomber* arcade game using SFML. Pilot a hummingbird, shoot bees, and protect honeycombs in this retro-inspired shooter.
+A modern adaptation of the iconic Buzz Bomber arcade classic, crafted in C++ with SFML. Delivering polished visuals, custom soundtracks, and immersive gameplay, this project revives the retro charm with contemporary enhancements.
 
 ## 🛠 Features
 
