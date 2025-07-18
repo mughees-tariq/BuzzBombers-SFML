@@ -1,21 +1,18 @@
-BuzzBombers-SFML 🎮
+# BuzzBombers-SFML 🎮
 
-A faithful C++ remake of the classic Buzz Bomber arcade game using SFML. Pilot a hummingbird, shoot bees, and protect honeycombs in this retro-inspired shooter.
+A faithful C++ remake of the classic *Buzz Bomber* arcade game using SFML. Pilot a hummingbird, shoot bees, and protect honeycombs in this retro-inspired shooter.
 
-🛠 Features
+## 🛠 Features
 
-🔫 Simple Shooting: Single bullets destroy bees, hives, and honeycombs
+* 🔫 **Simple Shooting:** Single bullets destroy bees, hives, and honeycombs
+* 🐝 **Bee Waves:** Honey bees traverse back and forth in lines
+* 🐦 **Bonus Target:** Hummingbird landing on hives or honeycombs grants extra points
+* 🏆 **Menus & Scores:** Main menu, level-complete screen, and high-score table
+* 🎵 **Audio & Fonts:** Includes custom music, sound effects, and fonts
 
-🐝 Bee Waves: Honey bees traverse back and forth in lines
+## 📁 Project Layout
 
-🐦 Bonus Target: Hummingbird landing on hives or honeycombs grants extra points
-
-🏆 Menus & Scores: Main menu, level-complete screen, and high-score table
-
-🎵 Audio & Fonts: Includes custom music, sound effects, and fonts
-
-📁 Project Layout
-
+```plaintext
 BuzzBombers-SFML/
 ├── assets/
 │   ├── textures/      # Sprite images
@@ -24,42 +21,42 @@ BuzzBombers-SFML/
 │   └── fonts/         # Game fonts
 ├── buzz.cpp           # Core game code
 └── README.md          # Project documentation
+```
 
-⚙️ Dependencies
+## ⚙️ Dependencies
 
-C++17 or later
+* **C++17** or later
+* **SFML** modules: graphics, window, audio, system
 
-SFML modules: graphics, window, audio, system
-
-🚀 Build & Run (Linux)
+## 🚀 Build & Run (Linux)
 
 Compile and link:
 
+```bash
 g++ -c buzz.cpp \
     && g++ buzz.o -o sfml-app \
        -lsfml-graphics -lsfml-window -lsfml-audio -lsfml-system
+```
 
 Run the game:
 
+```bash
 ./sfml-app
+```
 
-⚠️ Avoid areas with flowers—they block movement.
+> ⚠️ Avoid areas with flowers—they block movement.
 
-🎮 Controls
+## 🎮 Controls
 
-Move Left/Right: ← / →
+* **Move Left/Right:** ← / →
+* **Shoot:** Spacebar
 
-Shoot: Spacebar
+## 👑 Game Progression
 
-👑 Game Progression
+* **Single Level:** One active stage (levels 2–3 and boss planned)
+* **Scoring:** Destroy bees for points; let the hummingbird eat hives/honeycombs for bonus
+* **Menus:** Navigate start screen, end-of-level, and view high scores
 
-Single Level: One active stage (levels 2–3 and boss planned)
-
-Scoring: Destroy bees for points; let the hummingbird eat hives/honeycombs for bonus
-
-Menus: Navigate start screen, end-of-level, and view high scores
-
-📜 License
+## 📜 License
 
 MIT © Mughees Tariq
-
