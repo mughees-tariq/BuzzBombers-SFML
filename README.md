@@ -5,13 +5,12 @@ Soar through retro mazes and blast bee swarms to defend your honey!
 A modern adaptation of the iconic Buzz Bomber arcade classic, crafted in C++ with SFML. Delivering polished visuals, custom soundtracks, and immersive gameplay, this project revives the retro charm with contemporary enhancements.
 
 ## 📺 Demo Video
-Watch the gameplay video on youtube
 
-▶️ https://youtu.be/J9RbIT6yj9U
+Watch the gameplay video on youtube:
+**▶️ https://youtu.be/J9RbIT6yj9U**
 
 ## 📸 Screenshots
-*Main Menu:
-<img width="822" height="462" alt="mainMenu" src="https://github.com/user-attachments/assets/0c6a8e8a-359c-419c-bdb2-e7e8e44892c6" />
+![Main Menu:](<img width="822" height="462" alt="mainMenu" src="https://github.com/user-attachments/assets/0c6a8e8a-359c-419c-bdb2-e7e8e44892c6" />)
 *Gameplay ScreenShot 1:
 <img width="823" height="464" alt="gameplay1" src="https://github.com/user-attachments/assets/b69d5727-620b-4d8e-a006-f5884165bb2d" />
 *Gameplay ScreenShot 2:
