@@ -10,6 +10,20 @@ Watch the gameplay video on youtube
 ▶️ https://youtu.be/J9RbIT6yj9U
 
 ## 📸 Screenshots
+*Main Menu:
+<img width="822" height="462" alt="mainMenu" src="https://github.com/user-attachments/assets/0c6a8e8a-359c-419c-bdb2-e7e8e44892c6" />
+*Gameplay ScreenShot 1:
+<img width="823" height="464" alt="gameplay1" src="https://github.com/user-attachments/assets/b69d5727-620b-4d8e-a006-f5884165bb2d" />
+*Gameplay ScreenShot 2:
+<img width="823" height="464" alt="gameplay1" src="https://github.com/user-attachments/assets/b3217143-d7d4-41ca-bd26-60f3b4cb0a0c" />
+*Gameplay ScreenShot 3:
+<img width="822" height="461" alt="gameplay3" src="https://github.com/user-attachments/assets/bfab5135-4b8c-4198-9822-4e9026da70cb" />
+*Level End Menu:
+<img width="823" height="463" alt="levelEnd" src="https://github.com/user-attachments/assets/61b3ebca-8f4d-4eca-b55c-125ee0a09270" />
+*Score Registration:
+<img width="824" height="466" alt="scoreRegistration" src="https://github.com/user-attachments/assets/3992af07-1930-40e8-b306-fb65af80ea98" />
+*Leaderboard:
+<img width="824" height="467" alt="leaderboard" src="https://github.com/user-attachments/assets/4eaee26f-6e32-419b-a1bd-8b19655bddab" />
 
 ## 🛠 Features
 
