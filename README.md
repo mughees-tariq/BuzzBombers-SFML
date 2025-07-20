@@ -1,6 +1,14 @@
 # BuzzBombers-SFML 🎮
 
+Soar through retro mazes and blast bee swarms to defend your honey!
+
 A modern adaptation of the iconic Buzz Bomber arcade classic, crafted in C++ with SFML. Delivering polished visuals, custom soundtracks, and immersive gameplay, this project revives the retro charm with contemporary enhancements.
+
+## 📺 Demo Video
+Watch the gameplay video on youtube
+▶️ https://youtu.be/J9RbIT6yj9U
+
+## 📸 Screenshots
 
 ## 🛠 Features
 
