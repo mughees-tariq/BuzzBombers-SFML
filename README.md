@@ -6,9 +6,8 @@ A modern adaptation of the iconic Buzz Bomber arcade classic, crafted in C++ wit
 
 ## 📺 Demo Video
 
-Watch the gameplay video on youtube:
-
-**▶️ https://youtu.be/J9RbIT6yj9U**
+**Watch the gameplay video:**
+▶️ [YouTube](https://youtu.be/J9RbIT6yj9U)
 
 ## 📸 Screenshots
 <img width="822" height="462" alt="mainMenu" src="https://github.com/user-attachments/assets/0c6a8e8a-359c-419c-bdb2-e7e8e44892c6" />
